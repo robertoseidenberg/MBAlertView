@@ -6,6 +6,8 @@
 //  Copyright (c) 2013 progenius. All rights reserved.
 //
 
+#import <QuartzCore/QuartzCore.h>
+
 #import "MBAlertAbstract.h"
 #import "MBAlertViewSubclass.h"
 #import "MBHUDView.h"
